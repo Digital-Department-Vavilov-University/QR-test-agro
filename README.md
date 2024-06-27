@@ -51,9 +51,13 @@
 
 ## Стек технологий:
 ***Движок:*** Unity
+
 ***Язык программирования:*** C#
+
 ***Библиотека:*** ZXing
+
 ***Ссылка на скачивание библиотеки:*** https://disk.yandex.ru/d/lJwcsGGckdMy5g
+
 
 ## Автор
 #### [knappIch (github.com)](https://github.com/knappIch)
